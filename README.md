@@ -1,7 +1,7 @@
 # Fine-tuning GPT-2 for multi-task dialogue summarization 
 
-This repository contains code for multi-task dialogue summarization: extractive + abstractive. 
-Base model: [GPT-2 small](https://huggingface.co/gpt2) 
+This repository contains code for multi-task dialogue summarization: extractive + abstractive. <br>
+Base model: [GPT-2 small](https://huggingface.co/gpt2) <br>
 Dataset: [AMI](https://groups.inf.ed.ac.uk/ami/corpus/)
 
 # Repo structure
