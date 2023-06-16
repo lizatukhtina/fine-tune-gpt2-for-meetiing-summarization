@@ -9,9 +9,9 @@ Dataset: [AMI](https://groups.inf.ed.ac.uk/ami/corpus/)
 ### root folder
 The main folder contains **3** following Jupyter notebooks:
 
- - Baselines.ipynb. Code for baselines
- - Fine-tuning GPT-2.ipynb. Code for the main experiment: fine-tuning GPT-2 model for extractive + abstractive dialogue summarization
- - Generation.ipynb. Overview of used generating techniques 
+ - **Baselines.ipynb.** Code for baselines
+ - **Fine-tuning GPT-2.ipynb.** Code for the main experiment: fine-tuning GPT-2 model for extractive + abstractive dialogue summarization
+ - **Generation.ipynb.** Overview of used generating techniques 
 
 ### data
 The data folder contains train and test sets used for experiments. The data is taken from AMI dataset. 
