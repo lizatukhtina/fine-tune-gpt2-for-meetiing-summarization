@@ -1,0 +1,7 @@
+Model,R-1,R-2,R-L,R-AVG
+GPT-2 TL;DR:,11.63,1.44,9.18,7.42
+GPT-2 no hint,6.69,0.35,5.47,4.17
+single_task_abstractive,25.61,9.23,23.93,19.59
+multi_task_abstractive_extractive,30.72,11.79,27.93,23.48
+multi_task_extractive_abstractive,19.17,5.58,17.79,14.18
+"Vicuna, zero-shot",22.36,5.39,17.78,15.18
